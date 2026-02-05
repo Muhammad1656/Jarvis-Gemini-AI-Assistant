@@ -1,0 +1,36 @@
+import speech_recognition as sr  
+import webbrowser 
+import pyttsx3  
+import musicLibrary
+import requests
+import datetime
+import os
+import pyautogui
+import psutil
+import wikipedia
+import pyjokes
+import cv2
+import speedtest
+import ctypes
+import random
+import pywhatkit
+from playsound import playsound
+import subprocess
+import pyperclip
+from google import genai
+from deepface import DeepFace
+import cv2
+import logging
+import cv2
+import mediapipe as mp
+import math
+import numpy as np
+import pyautogui
+from cvzone.HandTrackingModule import HandDetector
+import numpy as np
+import screen_brightness_control as sbc
+import tkinter as tk
+from tkinter import scrolledtext
+from PIL import Image, ImageTk, ImageSequence 
+import threading 
+import time
