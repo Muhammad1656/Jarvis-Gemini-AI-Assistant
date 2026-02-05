@@ -46,9 +46,8 @@ To run this project on your local machine, follow these simple steps:
 
 1.  **Clone the Repository**
     ```bash
-    git clone [https://github.com/YourUsername/Jarvis-Gemini-AI-Assistant.git](https://github.com/YourUsername/Jarvis-Gemini-AI-Assistant.git)
-    cd Jarvis-Gemini-AI-Assistant
-    ```
+    git clone [https://github.com/Muhammad1656/Jarvis-Gemini-AI-Assistant.git](https://github.com/Muhammad1656/Jarvis-Gemini-AI-Assistant.git)
+   cd Jarvis-Gemini-AI-Assistant
 
 2.  **Install Dependencies**
     I have listed all necessary AI and System libraries in `requirements.txt`.
@@ -82,4 +81,5 @@ We plan to push the capabilities of JARVIS even further using the evolving Gemin
 * **Gemini Live API Integration:** Transition from "Snapshot Vision" to **Real-time Video Analysis** (Latency < 500ms).
 * **IoT Smart Home Control:** Connecting Jarvis to control lights, fans, and thermostats using Raspberry Pi.
 * **Long Context Memory:** Using Gemini's 1M+ token window to allow Jarvis to remember conversations from weeks ago.
+
 * **Voice Cloning:** Integrating custom voice models to make Jarvis sound exactly like the movie version.
